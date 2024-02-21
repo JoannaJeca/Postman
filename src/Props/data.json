@@ -1,0 +1,83 @@
+[
+    {
+       "img":"https://res.cloudinary.com/postman/image/upload/t_team_logo/v1694698173/team/244d1936086d86446ee0d0b95d4fd63a15cc1575e5bbcaef8f06c641ee96c994.png",
+       "title":"Passage",
+       "desc": "This workspace contains resources that you can demo and share with customers and partners.",
+       "sponsor":"By passage-identity",
+       "eye":"4 watchers",
+       "view": "400+ views"
+    },
+    {
+        "img":"https://res.cloudinary.com/postman/image/upload/t_team_logo/v1643787837/team/0306bf0bcaa68a38e60e57698caaba472c5514513f4146ac484566bdea9726dc.jpg",
+        "title":"Stuart API",
+        "desc": "Stuart: Logistics for a sustainable world: shared, efficient and reliable.",
+        "sponsor":"By Stuart",
+        "eye":"3 watchers",
+        "view": "1k+ views"
+     },
+     {
+        "img":"https://res.cloudinary.com/postman/image/upload/t_team_logo/v1661224767/team/36ae11e83aeada81cfb8c3231472e748fded0b69ecd1d422bfb3df47e30f9e44.png",
+        "title":"Zoom Public Workspace",
+        "desc": "Zoom video communications, Inc. curated workflows and pubic API collections",
+        "sponsor":"By Zoom developer",
+        "eye":"50+ watchers",
+        "view": "50k+ views"
+     },
+     {
+        "img":"https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629873674/team/1ac862f7c8f1a3c91a17eb66e55f748d609f653c4d2bf43d9b12adef8568555c",
+        "title":"Stripe Developers",
+        "desc": "A workspace for the Stripe API",
+        "sponsor":"By StripeDev",
+        "eye":"200 watchers",
+        "view": "100k+ views"
+     },
+     {
+        "img":"https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869699/team/c1e27423bcfaac2d0522a677ab389a60ab145d92e530ce3ddbbee6d0dd204939",
+        "title":"Dolby.io Media APIs",
+        "desc": "Dolby.io Media APIs Postman Collection",
+        "sponsor":"By Dolby",
+        "eye":"5 watchers",
+        "view": "5k+ views"
+     },
+     {
+        "img":"https://res.cloudinary.com/postman/image/upload/t_team_logo/v1661370310/team/b0ddaa4bf50e7b2e044992775aca89a52788b07e501b7ded9c1e00a8c19233e9.png",
+        "title":"Wowza Video Rest API",
+        "desc": "The Wowza Video Rest API adds live streaming and playback functionality to your applications.",
+        "sponsor":"By Wowza",
+        "eye":"6 watchers",
+        "view": "5k+ views"
+     },
+    
+     {
+        "img":"https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629884650/team/c26bc1e4b4087fbe4d295af9573577df764b107105f732401c0a2dd6d8d83270",
+        "title":"Intel SecL-DC - Foundational Security",
+        "desc": "Quick start API collections for Foundational Security use cases of Intel SecL-DC.",
+        "sponsor":"By Intel Security Libraries",
+        "eye":"5 watchers",
+        "view": "5k+ views"
+     },
+     {
+        "img":"https://res.cloudinary.com/postman/image/upload/t_team_logo/v1652706266/team/2040a43d5741174ec80f10fd5e5e062f7dc0925d73a0168e6a5a60a2b5cd6081.png",
+        "title":"Withings Health Solutions",
+        "desc": "This workspace will help you integrate Withings API which includes logistics services as well as...",
+        "sponsor":"By Withings",
+        "eye":"10+ watchers",
+        "view": "5k+ views"
+     },
+     {
+        "img":"https://res.cloudinary.com/postman/image/upload/t_team_logo/v1670340009/team/e341e6b4dcbd3c4586021055b0e11c4bec406bf98e6536283db6163179c124de.png",
+        "title":"Talon.One",
+        "desc": "Talon.One is a promotion engine that allows you to build any incentive, using data. This is our API...",
+        "sponsor":"By Talon.One",
+        "eye":"7 watchers",
+        "view": "3k+ views"
+     },
+     {
+        "img":"https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629883554/team/85cdc0e29da8fbc2de10406ed758ffefe1cbb6dfaf7281ae60a0e17c36d90c8f",
+        "title":"Adyen APIs",
+        "desc": "All Adyen APIs with documentation, variables and examples",
+        "sponsor":"By Adyen Developers",
+        "eye":"40+ watchers",
+        "view": "30k+ views"
+     }
+]

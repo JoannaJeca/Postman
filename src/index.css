@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin:0
+}
+
+:root {
+  font-family:"Poppins", Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  
+}
+
+::-webkit-scrollbar{
+ width:9px;
+}
+
+::-webkit-scrollbar-thumb{
+  width: 3px;
+  background-color: gray;
+  height:3px;
+  border-radius:10px;
+
+}
+
+::-webkit-scrollbar-track{
+  width: 8px;
+  height:3px;
+
+};
