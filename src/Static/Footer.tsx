@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
-    <div className="w-full h-[80vh] mb-5 flex justify-center mt-10 items-center">
-      <div className="w-[76.5%] grid grid-cols-6 gap-8  md:flex md:flex-col">
+    <div className="w-full h-[65vh] mb-5 flex justify-center mt-10 items-center">
+      <div className="w-[76.5%] grid grid-cols-6 gap-8 ">
         <div className="col-span-2 text-[15px] ">
           <img
             className="text-gray-500 hover:text-orange-500"
